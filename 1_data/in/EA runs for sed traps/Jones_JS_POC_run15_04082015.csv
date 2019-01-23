@@ -1,0 +1,16 @@
+Sample,Response Base,File Name,Sample Type,Weight_mg,Nitrogen area_mV.s,Nitrogen_mg,Nitrogen_%,Carbon area_mV.s,Carbon_mg,Carbon_%,Nitrogen_Carbon
+bypass1,Area,Jones_JS_POC_run15_040815_001.prm,ByPass,0,0,0,0,0,0,0,???
+bypass2,Area,Jones_JS_POC_run15_040815_002.prm,ByPass,0,0,0,0,0,0,0,???
+timingstd_F7_red,Area,Jones_JS_POC_run15_040815_003.prm,Unknown,1.071,671.1433,0.1171,10.9313,1.04E+04,0.6722,62.7634,0.0646
+blank_A3_red,Area,Jones_JS_POC_run15_040815_004.prm,Blank,0,0,0,0,0,0,0,???
+std1_G1_blue,Area,Jones_JS_POC_run15_040815_005.prm,Standard,0.13,80.2364,0.0118,9.0558,1370.2295,0.058,44.6194,0.0586
+std2_E7_blue,Area,Jones_JS_POC_run15_040815_006.prm,Standard,0.456,272.2129,0.046,10.0841,5161.0734,0.316,69.2955,0.0527
+std3_B8_blue,Area,Jones_JS_POC_run15_040815_007.prm,Standard,0.601,359.9939,0.0616,10.254,6784.1947,0.4264,70.9563,0.0531
+std4_F3_red,Area,Jones_JS_POC_run15_040815_008.prm,Standard,0.842,510.9732,0.0885,10.5144,9481.9541,0.61,72.4514,0.0539
+std5_F8_red,Area,Jones_JS_POC_run15_040815_009.prm,Standard,1.415,839.5801,0.1471,10.3951,1.53E+04,1.0088,71.2915,0.0547
+std6_E12_red,Area,Jones_JS_POC_run15_040815_010.prm,Standard,1.778,1060.3178,0.1864,10.4852,1.90E+04,1.2587,70.7904,0.0558
+std7_H8_red,Area,Jones_JS_POC_run15_040815_011.prm,Standard,2.256,1313.7848,0.2316,10.2657,2.26E+04,1.5018,66.5685,0.0582
+blank_A4_red,Area,Jones_JS_POC_run15_040815_012.prm,Unknown,0,0,0,0,0,0,0,???
+P1185_C1,Area,Jones_JS_POC_run15_040815_013.prm,Unknown,0,0,0,0,0,0,0,???
+control_B11_red,Area,Jones_JS_POC_run15_040815_014.prm,Unknown,0.899,0,0,0,0,0,0,???
+P1186_C2,Area,Jones_JS_POC_run15_040815_015.prm,Unknown,0,0,0,0,2152.2355,0.1112,100,0
